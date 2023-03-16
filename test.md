@@ -38,4 +38,4 @@ graph LR
 
 #26, GH-26
 
-https://github.com/jlord/sheetsee.js/issues/26 , jlord/sheetsee.js/issues/26
+https://github.com/jlord/sheetsee.js/issues/26 , jlord/sheetsee.js/issues/26, jlord/sheetsee.js#26
