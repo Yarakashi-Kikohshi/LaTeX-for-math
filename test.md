@@ -2,6 +2,15 @@
 title: GitHub.com Markdown syntax test
 ---
 
+> **note**  
+> this is note!
+
+> **note**\ 
+> this is note!
+
+> **note**<br>
+> this is note!
+
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
