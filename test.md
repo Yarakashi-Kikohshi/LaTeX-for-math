@@ -5,7 +5,7 @@ title: GitHub.com Markdown syntax test
 > **note**  
 > this is note!
 
-> **note**\ 
+> **note**\
 > this is note!
 
 > **note**<br>
