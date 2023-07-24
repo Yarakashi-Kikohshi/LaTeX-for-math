@@ -2,6 +2,10 @@
 title: GitHub.com Markdown syntax test
 ---
 
+soft
+line
+breaks
+
 > **note**  
 > this is note!
 
