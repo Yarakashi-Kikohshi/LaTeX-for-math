@@ -6,6 +6,12 @@ soft
 line
 breaks
 
+
+> [!Warning]
+> This is a Warning!
+
+[!warning]: https://www.example.com "Example Domain"
+
 > **note**  
 > this is note!
 
