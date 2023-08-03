@@ -12,6 +12,12 @@ breaks
 
 [!warning]: https://www.example.com "Example Domain"
 
+> [!note]
+> This is a note!
+>
+> Setext headings
+> ---------------
+
 > **note**  
 > this is note!
 
