@@ -27,8 +27,10 @@ breaks
 > **note** <br>
 > this is note!
 
-> [!note]\
+>     [!note]
 > This is note!
+
+> [!important]
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
