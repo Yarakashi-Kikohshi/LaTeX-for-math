@@ -19,6 +19,9 @@ breaks
 > Setext headings
 > ---------------
 
+> [!note]
+This is a note!
+
 
 > [!note]
 > Setext headings
