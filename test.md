@@ -2,6 +2,11 @@
 title: GitHub.com Markdown syntax test
 ---
 
+ftp://example.com
+
+文章内の ftp://example.com
+
+
 soft
 line
 breaks
