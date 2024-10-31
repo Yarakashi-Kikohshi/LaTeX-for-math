@@ -2,6 +2,16 @@
 title: GitHub.com Markdown syntax test
 ---
 
+<a id="name">
+
+![image](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png)
+
+</a>
+
+<a id="name2">
+![image](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png)
+</a>
+
 ## GitHub.com では custom anchor が使える
 
 ## normal heading
@@ -52,6 +62,9 @@ print("Hello World.")
 [HTML name heading](#html-name-heading)
 
 [Code block](#code-block)
+
+[image1](#name)
+[image2](#name2)
 
 ftp://example.com
 
