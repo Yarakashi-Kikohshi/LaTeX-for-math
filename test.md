@@ -10,7 +10,7 @@ title: GitHub.com Markdown syntax test
 
 ## <a id="id-anchor"></a> custom heading
 
-<h1 name="html-name-heading">HTML heading :smile: </h1>
+<h1 name="html-name-heading">HTML ~~heading~~ :smile: </h1>
 
 <h1 id="html-id-heading">HTML _heading_ $\alpha$ </h1>
 
