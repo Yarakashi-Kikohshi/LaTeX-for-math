@@ -26,6 +26,11 @@ title: GitHub.com Markdown syntax test
 
 ## decoi
 
+<a id="code-block">
+```python
+print("Hello World.")
+```
+</a>
 
 > [!note]
 > <a id="note-id"></a>
@@ -46,6 +51,7 @@ title: GitHub.com Markdown syntax test
 
 [HTML name heading](#html-name-heading)
 
+[Code block](#code-block)
 
 ftp://example.com
 
