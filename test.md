@@ -12,7 +12,7 @@ title: GitHub.com Markdown syntax test
 
 <h1 name="html-name-heading">HTML heading :smile: </h1>
 
-<h1 id="html-id-heading">HTML heading</h1>
+<h1 id="html-id-heading">HTML _heading_ $\alpha$ </h1>
 
 ## decoi
 
