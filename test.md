@@ -2,6 +2,37 @@
 title: GitHub.com Markdown syntax test
 ---
 
+## GitHub.com では custom anchor が使える
+
+## normal heading
+
+## <a name="name-anchor"></a> custom heading
+
+## <a id="id-anchor"></a> custom heading
+
+## decoi
+
+## decoi
+
+## decoi
+
+## decoi
+
+## decoi
+
+## decoi
+
+----------
+
+
+[normal heading](#normal-heading)
+
+[name anchor](#name-anchor)
+
+[id anchor](#id-anchor)
+
+
+
 ftp://example.com
 
 文章内の ftp://example.com
