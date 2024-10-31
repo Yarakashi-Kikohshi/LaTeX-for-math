@@ -10,7 +10,9 @@ title: GitHub.com Markdown syntax test
 
 ## <a id="id-anchor"></a> custom heading
 
-<h1 id="html-heading">HTML heading</h1>
+<h1 name="html-name-heading">HTML heading</h1>
+
+<h1 id="html-id-heading">HTML heading</h1>
 
 ## decoi
 
@@ -33,7 +35,10 @@ title: GitHub.com Markdown syntax test
 
 [id anchor](#id-anchor)
 
-[HTML heading](#html-heading)
+[HTML ID heading](#html-id-heading)
+
+[HTML name heading](#html-name-heading)
+
 
 ftp://example.com
 
