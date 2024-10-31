@@ -27,7 +27,8 @@ title: GitHub.com Markdown syntax test
 ## decoi
 
 
-> [!note]<a id="note-id"></a>
+> [!note]
+> <a id="note-id"></a>
 > これは alert 記法による目を引き付けるためのものです。
 
 [alert anchor](#note-id)
