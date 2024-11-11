@@ -19,6 +19,17 @@ title: GitHub.com Markdown syntax test
 1. image
    <img src = "https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" width = "10%">
 
+-----
+
+1. ruby
+<ruby> 明日 <rp>(</rp><rt>Ashita</rt><rp>)</rp> </ruby>
+1. ruby
+<ruby> 明日 <rp>(</rp><rt>Ashita</rt><rp>)</rp> </ruby>
+1. ruby
+<ruby> 明日 <rp>(</rp><rt>Ashita</rt><rp>)</rp> </ruby>
+
+-----
+
 ## My Heading{#custom-id}
 ## GitHub.com では custom anchor が使える
 
